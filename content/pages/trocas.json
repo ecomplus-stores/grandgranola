@@ -2,5 +2,19 @@
   "title": "Trocas e devoluções",
   "meta_title": "Trocas e devoluções",
   "meta_description": "Trocas e devoluções",
-  "body": "**Política de Devolução**\n\nÉ possível devolver um produto adquirido na Grand Granola em até 7 *(sete)* dias corridos, contados a partir da data de entrega.\n\nAceitamos a devolução quando não houver violação do lacre da embalagem e não houver evidência de uso. O processo de restituição será iniciado após o recebimento do produto em nosso centro de distribuição e a confirmação de que ele está em condições adequadas.\n\nSe não houver indícios de uso, procederemos conforme a preferência do cliente:\n\nTroca por outro produto;\n\nCancelamento da compra junto à operadora do cartão de crédito;\n\nReembolso integral do valor pago.\n\nToda solicitação de troca ou devolução deve ser comunicada previamente aos nossos canais de atendimento, para que possamos fornecer as instruções detalhadas sobre o procedimento.\n\n\\\n**Motivos que permitem trocas ou devoluções:**\n\n* Produto entregue diferente do solicitado;\n* Embalagem violada ou produto danificado durante o transporte;\n* Defeito de fabricação identificado no produto;\n* Produto fora do prazo de validade no momento da entrega.\n* Desistência da compra (devolução por desistência).\n\n\\\nEm qualquer uma das situações acima, entre em contato com nossos canais de atendimento em até 7 dias corridos após o recebimento, enviando as informações do pedido e fotos do produto, se necessário."
+  "body": "**Política de Devolução**\n\nÉ possível devolver um produto adquirido na Grand Granola em até 7 *(sete)* dias corridos, contados a partir da data de entrega.\n\nAceitamos a devolução quando não houver violação do lacre da embalagem e não houver evidência de uso. O processo de restituição será iniciado após o recebimento do produto em nosso centro de distribuição e a confirmação de que ele está em condições adequadas.\n\nSe não houver indícios de uso, procederemos conforme a preferência do cliente:\n\nTroca por outro produto;\n\nCancelamento da compra junto à operadora do cartão de crédito;\n\nReembolso integral do valor pago.\n\nToda solicitação de troca ou devolução deve ser comunicada previamente aos nossos canais de atendimento, para que possamos fornecer as instruções detalhadas sobre o procedimento.\n\n\\\n**Motivos que permitem trocas ou devoluções:**\n\n* Produto entregue diferente do solicitado;\n* Embalagem violada ou produto danificado durante o transporte;\n* Defeito de fabricação identificado no produto;\n* Produto fora do prazo de validade no momento da entrega.\n* Desistência da compra (devolução por desistência).\n\n\\\nEm qualquer uma das situações acima, entre em contato com nossos canais de atendimento em até 7 dias corridos após o recebimento, enviando as informações do pedido e fotos do produto, se necessário.",
+  "sections": [
+    {
+      "type": "page-title"
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
+    }
+  ]
 }
