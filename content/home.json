@@ -3,6 +3,10 @@
   "meta_description": "<meta name=\"google-site-verification\" content=\"nVqdp3MI609CQfq0ztNmVw4F4UmLrA9VqA0ksup_dOI\" />",
   "sections": [
     {
+      "type": "custom-html",
+      "html": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-NY6CCEW9Q6\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-NY6CCEW9Q6');\n</script>\n\n"
+    },
+    {
       "type": "banner-slider",
       "autoplay": 0,
       "full_width": false,
