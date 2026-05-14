@@ -12,9 +12,10 @@
     "link": "#"
   },
   "exchange": {
-    "show": false,
-    "text": "Não gostou? A primeira troca é gratuita",
-    "link": "#"
+    "show": true,
+    "text": "",
+    "link": "",
+    "title": "Politica de troca"
   },
   "promo": {
     "show": true,
